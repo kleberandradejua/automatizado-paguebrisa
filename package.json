@@ -1,0 +1,14 @@
+{
+  "name": "paguebrisa",
+  "version": "1.0.0",
+  "description": "Testes automatizados do Pague Brisa",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Kleber de Andrade",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.0.3"
+  }
+}
